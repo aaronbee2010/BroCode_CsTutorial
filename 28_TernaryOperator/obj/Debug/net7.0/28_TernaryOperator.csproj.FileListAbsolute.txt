@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\28_TernaryOperator\bin\Debug\net7.0\28_TernaryOperator.exe
+D:\Documents\csTutorial\28_TernaryOperator\bin\Debug\net7.0\28_TernaryOperator.deps.json
+D:\Documents\csTutorial\28_TernaryOperator\bin\Debug\net7.0\28_TernaryOperator.runtimeconfig.json
+D:\Documents\csTutorial\28_TernaryOperator\bin\Debug\net7.0\28_TernaryOperator.dll
+D:\Documents\csTutorial\28_TernaryOperator\bin\Debug\net7.0\28_TernaryOperator.pdb
+D:\Documents\csTutorial\28_TernaryOperator\obj\Debug\net7.0\28_TernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\28_TernaryOperator\obj\Debug\net7.0\28_TernaryOperator.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\28_TernaryOperator\obj\Debug\net7.0\28_TernaryOperator.AssemblyInfo.cs
+D:\Documents\csTutorial\28_TernaryOperator\obj\Debug\net7.0\28_TernaryOperator.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\28_TernaryOperator\obj\Debug\net7.0\28_TernaryOperator.dll
+D:\Documents\csTutorial\28_TernaryOperator\obj\Debug\net7.0\refint\28_TernaryOperator.dll
+D:\Documents\csTutorial\28_TernaryOperator\obj\Debug\net7.0\28_TernaryOperator.pdb
+D:\Documents\csTutorial\28_TernaryOperator\obj\Debug\net7.0\28_TernaryOperator.genruntimeconfig.cache
+D:\Documents\csTutorial\28_TernaryOperator\obj\Debug\net7.0\ref\28_TernaryOperator.dll

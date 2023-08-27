@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\21_Arrays\bin\Debug\net7.0\21_Arrays.exe
+D:\Documents\csTutorial\21_Arrays\bin\Debug\net7.0\21_Arrays.deps.json
+D:\Documents\csTutorial\21_Arrays\bin\Debug\net7.0\21_Arrays.runtimeconfig.json
+D:\Documents\csTutorial\21_Arrays\bin\Debug\net7.0\21_Arrays.dll
+D:\Documents\csTutorial\21_Arrays\bin\Debug\net7.0\21_Arrays.pdb
+D:\Documents\csTutorial\21_Arrays\obj\Debug\net7.0\21_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\21_Arrays\obj\Debug\net7.0\21_Arrays.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\21_Arrays\obj\Debug\net7.0\21_Arrays.AssemblyInfo.cs
+D:\Documents\csTutorial\21_Arrays\obj\Debug\net7.0\21_Arrays.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\21_Arrays\obj\Debug\net7.0\21_Arrays.dll
+D:\Documents\csTutorial\21_Arrays\obj\Debug\net7.0\refint\21_Arrays.dll
+D:\Documents\csTutorial\21_Arrays\obj\Debug\net7.0\21_Arrays.pdb
+D:\Documents\csTutorial\21_Arrays\obj\Debug\net7.0\21_Arrays.genruntimeconfig.cache
+D:\Documents\csTutorial\21_Arrays\obj\Debug\net7.0\ref\21_Arrays.dll

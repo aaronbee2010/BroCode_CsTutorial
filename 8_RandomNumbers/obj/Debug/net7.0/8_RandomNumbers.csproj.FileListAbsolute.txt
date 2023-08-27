@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\8_RandomNumbers\bin\Debug\net7.0\8_RandomNumbers.exe
+D:\Documents\csTutorial\8_RandomNumbers\bin\Debug\net7.0\8_RandomNumbers.deps.json
+D:\Documents\csTutorial\8_RandomNumbers\bin\Debug\net7.0\8_RandomNumbers.runtimeconfig.json
+D:\Documents\csTutorial\8_RandomNumbers\bin\Debug\net7.0\8_RandomNumbers.dll
+D:\Documents\csTutorial\8_RandomNumbers\bin\Debug\net7.0\8_RandomNumbers.pdb
+D:\Documents\csTutorial\8_RandomNumbers\obj\Debug\net7.0\8_RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\8_RandomNumbers\obj\Debug\net7.0\8_RandomNumbers.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\8_RandomNumbers\obj\Debug\net7.0\8_RandomNumbers.AssemblyInfo.cs
+D:\Documents\csTutorial\8_RandomNumbers\obj\Debug\net7.0\8_RandomNumbers.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\8_RandomNumbers\obj\Debug\net7.0\8_RandomNumbers.dll
+D:\Documents\csTutorial\8_RandomNumbers\obj\Debug\net7.0\refint\8_RandomNumbers.dll
+D:\Documents\csTutorial\8_RandomNumbers\obj\Debug\net7.0\8_RandomNumbers.pdb
+D:\Documents\csTutorial\8_RandomNumbers\obj\Debug\net7.0\8_RandomNumbers.genruntimeconfig.cache
+D:\Documents\csTutorial\8_RandomNumbers\obj\Debug\net7.0\ref\8_RandomNumbers.dll

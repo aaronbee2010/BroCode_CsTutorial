@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\5_UserInput\bin\Debug\net7.0\5_UserInput.exe
+D:\Documents\csTutorial\5_UserInput\bin\Debug\net7.0\5_UserInput.deps.json
+D:\Documents\csTutorial\5_UserInput\bin\Debug\net7.0\5_UserInput.runtimeconfig.json
+D:\Documents\csTutorial\5_UserInput\bin\Debug\net7.0\5_UserInput.dll
+D:\Documents\csTutorial\5_UserInput\bin\Debug\net7.0\5_UserInput.pdb
+D:\Documents\csTutorial\5_UserInput\obj\Debug\net7.0\5_UserInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\5_UserInput\obj\Debug\net7.0\5_UserInput.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\5_UserInput\obj\Debug\net7.0\5_UserInput.AssemblyInfo.cs
+D:\Documents\csTutorial\5_UserInput\obj\Debug\net7.0\5_UserInput.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\5_UserInput\obj\Debug\net7.0\5_UserInput.dll
+D:\Documents\csTutorial\5_UserInput\obj\Debug\net7.0\refint\5_UserInput.dll
+D:\Documents\csTutorial\5_UserInput\obj\Debug\net7.0\5_UserInput.pdb
+D:\Documents\csTutorial\5_UserInput\obj\Debug\net7.0\5_UserInput.genruntimeconfig.cache
+D:\Documents\csTutorial\5_UserInput\obj\Debug\net7.0\ref\5_UserInput.dll

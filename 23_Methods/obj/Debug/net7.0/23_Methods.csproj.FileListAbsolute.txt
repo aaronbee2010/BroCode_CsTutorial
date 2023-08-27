@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\23_Methods\bin\Debug\net7.0\23_Methods.exe
+D:\Documents\csTutorial\23_Methods\bin\Debug\net7.0\23_Methods.deps.json
+D:\Documents\csTutorial\23_Methods\bin\Debug\net7.0\23_Methods.runtimeconfig.json
+D:\Documents\csTutorial\23_Methods\bin\Debug\net7.0\23_Methods.dll
+D:\Documents\csTutorial\23_Methods\bin\Debug\net7.0\23_Methods.pdb
+D:\Documents\csTutorial\23_Methods\obj\Debug\net7.0\23_Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\23_Methods\obj\Debug\net7.0\23_Methods.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\23_Methods\obj\Debug\net7.0\23_Methods.AssemblyInfo.cs
+D:\Documents\csTutorial\23_Methods\obj\Debug\net7.0\23_Methods.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\23_Methods\obj\Debug\net7.0\23_Methods.dll
+D:\Documents\csTutorial\23_Methods\obj\Debug\net7.0\refint\23_Methods.dll
+D:\Documents\csTutorial\23_Methods\obj\Debug\net7.0\23_Methods.pdb
+D:\Documents\csTutorial\23_Methods\obj\Debug\net7.0\23_Methods.genruntimeconfig.cache
+D:\Documents\csTutorial\23_Methods\obj\Debug\net7.0\ref\23_Methods.dll

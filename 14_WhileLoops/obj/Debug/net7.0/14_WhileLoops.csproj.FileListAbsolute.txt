@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\14_WhileLoops\bin\Debug\net7.0\14_WhileLoops.exe
+D:\Documents\csTutorial\14_WhileLoops\bin\Debug\net7.0\14_WhileLoops.deps.json
+D:\Documents\csTutorial\14_WhileLoops\bin\Debug\net7.0\14_WhileLoops.runtimeconfig.json
+D:\Documents\csTutorial\14_WhileLoops\bin\Debug\net7.0\14_WhileLoops.dll
+D:\Documents\csTutorial\14_WhileLoops\bin\Debug\net7.0\14_WhileLoops.pdb
+D:\Documents\csTutorial\14_WhileLoops\obj\Debug\net7.0\14_WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\14_WhileLoops\obj\Debug\net7.0\14_WhileLoops.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\14_WhileLoops\obj\Debug\net7.0\14_WhileLoops.AssemblyInfo.cs
+D:\Documents\csTutorial\14_WhileLoops\obj\Debug\net7.0\14_WhileLoops.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\14_WhileLoops\obj\Debug\net7.0\14_WhileLoops.dll
+D:\Documents\csTutorial\14_WhileLoops\obj\Debug\net7.0\refint\14_WhileLoops.dll
+D:\Documents\csTutorial\14_WhileLoops\obj\Debug\net7.0\14_WhileLoops.pdb
+D:\Documents\csTutorial\14_WhileLoops\obj\Debug\net7.0\14_WhileLoops.genruntimeconfig.cache
+D:\Documents\csTutorial\14_WhileLoops\obj\Debug\net7.0\ref\14_WhileLoops.dll

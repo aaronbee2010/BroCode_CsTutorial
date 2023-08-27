@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\7_MathClass\obj\Debug\net7.0\7_MathClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\7_MathClass\obj\Debug\net7.0\7_MathClass.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\7_MathClass\obj\Debug\net7.0\7_MathClass.AssemblyInfo.cs
+D:\Documents\csTutorial\7_MathClass\obj\Debug\net7.0\7_MathClass.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\7_MathClass\bin\Debug\net7.0\7_MathClass.exe
+D:\Documents\csTutorial\7_MathClass\bin\Debug\net7.0\7_MathClass.deps.json
+D:\Documents\csTutorial\7_MathClass\bin\Debug\net7.0\7_MathClass.runtimeconfig.json
+D:\Documents\csTutorial\7_MathClass\bin\Debug\net7.0\7_MathClass.dll
+D:\Documents\csTutorial\7_MathClass\bin\Debug\net7.0\7_MathClass.pdb
+D:\Documents\csTutorial\7_MathClass\obj\Debug\net7.0\7_MathClass.dll
+D:\Documents\csTutorial\7_MathClass\obj\Debug\net7.0\refint\7_MathClass.dll
+D:\Documents\csTutorial\7_MathClass\obj\Debug\net7.0\7_MathClass.pdb
+D:\Documents\csTutorial\7_MathClass\obj\Debug\net7.0\7_MathClass.genruntimeconfig.cache
+D:\Documents\csTutorial\7_MathClass\obj\Debug\net7.0\ref\7_MathClass.dll

@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\48_Enums\bin\Debug\net7.0\48_Enums.exe
+D:\Documents\csTutorial\48_Enums\bin\Debug\net7.0\48_Enums.deps.json
+D:\Documents\csTutorial\48_Enums\bin\Debug\net7.0\48_Enums.runtimeconfig.json
+D:\Documents\csTutorial\48_Enums\bin\Debug\net7.0\48_Enums.dll
+D:\Documents\csTutorial\48_Enums\bin\Debug\net7.0\48_Enums.pdb
+D:\Documents\csTutorial\48_Enums\obj\Debug\net7.0\48_Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\48_Enums\obj\Debug\net7.0\48_Enums.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\48_Enums\obj\Debug\net7.0\48_Enums.AssemblyInfo.cs
+D:\Documents\csTutorial\48_Enums\obj\Debug\net7.0\48_Enums.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\48_Enums\obj\Debug\net7.0\48_Enums.dll
+D:\Documents\csTutorial\48_Enums\obj\Debug\net7.0\refint\48_Enums.dll
+D:\Documents\csTutorial\48_Enums\obj\Debug\net7.0\48_Enums.pdb
+D:\Documents\csTutorial\48_Enums\obj\Debug\net7.0\48_Enums.genruntimeconfig.cache
+D:\Documents\csTutorial\48_Enums\obj\Debug\net7.0\ref\48_Enums.dll

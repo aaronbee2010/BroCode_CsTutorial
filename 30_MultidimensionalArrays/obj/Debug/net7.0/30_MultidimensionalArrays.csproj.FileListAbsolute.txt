@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\30_MultidimensionalArrays\bin\Debug\net7.0\30_MultidimensionalArrays.exe
+D:\Documents\csTutorial\30_MultidimensionalArrays\bin\Debug\net7.0\30_MultidimensionalArrays.deps.json
+D:\Documents\csTutorial\30_MultidimensionalArrays\bin\Debug\net7.0\30_MultidimensionalArrays.runtimeconfig.json
+D:\Documents\csTutorial\30_MultidimensionalArrays\bin\Debug\net7.0\30_MultidimensionalArrays.dll
+D:\Documents\csTutorial\30_MultidimensionalArrays\bin\Debug\net7.0\30_MultidimensionalArrays.pdb
+D:\Documents\csTutorial\30_MultidimensionalArrays\obj\Debug\net7.0\30_MultidimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\30_MultidimensionalArrays\obj\Debug\net7.0\30_MultidimensionalArrays.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\30_MultidimensionalArrays\obj\Debug\net7.0\30_MultidimensionalArrays.AssemblyInfo.cs
+D:\Documents\csTutorial\30_MultidimensionalArrays\obj\Debug\net7.0\30_MultidimensionalArrays.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\30_MultidimensionalArrays\obj\Debug\net7.0\30_MultidimensionalArrays.dll
+D:\Documents\csTutorial\30_MultidimensionalArrays\obj\Debug\net7.0\refint\30_MultidimensionalArrays.dll
+D:\Documents\csTutorial\30_MultidimensionalArrays\obj\Debug\net7.0\30_MultidimensionalArrays.pdb
+D:\Documents\csTutorial\30_MultidimensionalArrays\obj\Debug\net7.0\30_MultidimensionalArrays.genruntimeconfig.cache
+D:\Documents\csTutorial\30_MultidimensionalArrays\obj\Debug\net7.0\ref\30_MultidimensionalArrays.dll

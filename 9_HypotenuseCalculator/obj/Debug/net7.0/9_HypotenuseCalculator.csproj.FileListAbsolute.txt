@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\9_HypotenuseCalculator\obj\Debug\net7.0\9_HypotenuseCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\9_HypotenuseCalculator\obj\Debug\net7.0\9_HypotenuseCalculator.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\9_HypotenuseCalculator\obj\Debug\net7.0\9_HypotenuseCalculator.AssemblyInfo.cs
+D:\Documents\csTutorial\9_HypotenuseCalculator\obj\Debug\net7.0\9_HypotenuseCalculator.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\9_HypotenuseCalculator\bin\Debug\net7.0\9_HypotenuseCalculator.exe
+D:\Documents\csTutorial\9_HypotenuseCalculator\bin\Debug\net7.0\9_HypotenuseCalculator.deps.json
+D:\Documents\csTutorial\9_HypotenuseCalculator\bin\Debug\net7.0\9_HypotenuseCalculator.runtimeconfig.json
+D:\Documents\csTutorial\9_HypotenuseCalculator\bin\Debug\net7.0\9_HypotenuseCalculator.dll
+D:\Documents\csTutorial\9_HypotenuseCalculator\bin\Debug\net7.0\9_HypotenuseCalculator.pdb
+D:\Documents\csTutorial\9_HypotenuseCalculator\obj\Debug\net7.0\9_HypotenuseCalculator.dll
+D:\Documents\csTutorial\9_HypotenuseCalculator\obj\Debug\net7.0\refint\9_HypotenuseCalculator.dll
+D:\Documents\csTutorial\9_HypotenuseCalculator\obj\Debug\net7.0\9_HypotenuseCalculator.pdb
+D:\Documents\csTutorial\9_HypotenuseCalculator\obj\Debug\net7.0\9_HypotenuseCalculator.genruntimeconfig.cache
+D:\Documents\csTutorial\9_HypotenuseCalculator\obj\Debug\net7.0\ref\9_HypotenuseCalculator.dll

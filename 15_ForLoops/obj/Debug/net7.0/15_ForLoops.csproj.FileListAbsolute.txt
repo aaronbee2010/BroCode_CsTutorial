@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\15_ForLoops\bin\Debug\net7.0\15_ForLoops.exe
+D:\Documents\csTutorial\15_ForLoops\bin\Debug\net7.0\15_ForLoops.deps.json
+D:\Documents\csTutorial\15_ForLoops\bin\Debug\net7.0\15_ForLoops.runtimeconfig.json
+D:\Documents\csTutorial\15_ForLoops\bin\Debug\net7.0\15_ForLoops.dll
+D:\Documents\csTutorial\15_ForLoops\bin\Debug\net7.0\15_ForLoops.pdb
+D:\Documents\csTutorial\15_ForLoops\obj\Debug\net7.0\15_ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\15_ForLoops\obj\Debug\net7.0\15_ForLoops.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\15_ForLoops\obj\Debug\net7.0\15_ForLoops.AssemblyInfo.cs
+D:\Documents\csTutorial\15_ForLoops\obj\Debug\net7.0\15_ForLoops.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\15_ForLoops\obj\Debug\net7.0\15_ForLoops.dll
+D:\Documents\csTutorial\15_ForLoops\obj\Debug\net7.0\refint\15_ForLoops.dll
+D:\Documents\csTutorial\15_ForLoops\obj\Debug\net7.0\15_ForLoops.pdb
+D:\Documents\csTutorial\15_ForLoops\obj\Debug\net7.0\15_ForLoops.genruntimeconfig.cache
+D:\Documents\csTutorial\15_ForLoops\obj\Debug\net7.0\ref\15_ForLoops.dll

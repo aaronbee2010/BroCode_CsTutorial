@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\32_Objects\bin\Debug\net7.0\32_Objects.exe
+D:\Documents\csTutorial\32_Objects\bin\Debug\net7.0\32_Objects.deps.json
+D:\Documents\csTutorial\32_Objects\bin\Debug\net7.0\32_Objects.runtimeconfig.json
+D:\Documents\csTutorial\32_Objects\bin\Debug\net7.0\32_Objects.dll
+D:\Documents\csTutorial\32_Objects\bin\Debug\net7.0\32_Objects.pdb
+D:\Documents\csTutorial\32_Objects\obj\Debug\net7.0\32_Objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\32_Objects\obj\Debug\net7.0\32_Objects.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\32_Objects\obj\Debug\net7.0\32_Objects.AssemblyInfo.cs
+D:\Documents\csTutorial\32_Objects\obj\Debug\net7.0\32_Objects.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\32_Objects\obj\Debug\net7.0\32_Objects.dll
+D:\Documents\csTutorial\32_Objects\obj\Debug\net7.0\refint\32_Objects.dll
+D:\Documents\csTutorial\32_Objects\obj\Debug\net7.0\32_Objects.pdb
+D:\Documents\csTutorial\32_Objects\obj\Debug\net7.0\32_Objects.genruntimeconfig.cache
+D:\Documents\csTutorial\32_Objects\obj\Debug\net7.0\ref\32_Objects.dll

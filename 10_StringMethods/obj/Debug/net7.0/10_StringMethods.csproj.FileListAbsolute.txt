@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\10_StringMethods\bin\Debug\net7.0\10_StringMethods.exe
+D:\Documents\csTutorial\10_StringMethods\bin\Debug\net7.0\10_StringMethods.deps.json
+D:\Documents\csTutorial\10_StringMethods\bin\Debug\net7.0\10_StringMethods.runtimeconfig.json
+D:\Documents\csTutorial\10_StringMethods\bin\Debug\net7.0\10_StringMethods.dll
+D:\Documents\csTutorial\10_StringMethods\bin\Debug\net7.0\10_StringMethods.pdb
+D:\Documents\csTutorial\10_StringMethods\obj\Debug\net7.0\10_StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\10_StringMethods\obj\Debug\net7.0\10_StringMethods.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\10_StringMethods\obj\Debug\net7.0\10_StringMethods.AssemblyInfo.cs
+D:\Documents\csTutorial\10_StringMethods\obj\Debug\net7.0\10_StringMethods.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\10_StringMethods\obj\Debug\net7.0\10_StringMethods.dll
+D:\Documents\csTutorial\10_StringMethods\obj\Debug\net7.0\refint\10_StringMethods.dll
+D:\Documents\csTutorial\10_StringMethods\obj\Debug\net7.0\10_StringMethods.pdb
+D:\Documents\csTutorial\10_StringMethods\obj\Debug\net7.0\10_StringMethods.genruntimeconfig.cache
+D:\Documents\csTutorial\10_StringMethods\obj\Debug\net7.0\ref\10_StringMethods.dll

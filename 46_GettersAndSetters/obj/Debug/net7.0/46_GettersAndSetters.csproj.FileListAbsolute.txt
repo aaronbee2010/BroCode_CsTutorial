@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\46_GettersAndSetters\obj\Debug\net7.0\46_GettersAndSetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\46_GettersAndSetters\obj\Debug\net7.0\46_GettersAndSetters.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\46_GettersAndSetters\obj\Debug\net7.0\46_GettersAndSetters.AssemblyInfo.cs
+D:\Documents\csTutorial\46_GettersAndSetters\obj\Debug\net7.0\46_GettersAndSetters.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\46_GettersAndSetters\bin\Debug\net7.0\46_GettersAndSetters.exe
+D:\Documents\csTutorial\46_GettersAndSetters\bin\Debug\net7.0\46_GettersAndSetters.deps.json
+D:\Documents\csTutorial\46_GettersAndSetters\bin\Debug\net7.0\46_GettersAndSetters.runtimeconfig.json
+D:\Documents\csTutorial\46_GettersAndSetters\bin\Debug\net7.0\46_GettersAndSetters.dll
+D:\Documents\csTutorial\46_GettersAndSetters\bin\Debug\net7.0\46_GettersAndSetters.pdb
+D:\Documents\csTutorial\46_GettersAndSetters\obj\Debug\net7.0\46_GettersAndSetters.dll
+D:\Documents\csTutorial\46_GettersAndSetters\obj\Debug\net7.0\refint\46_GettersAndSetters.dll
+D:\Documents\csTutorial\46_GettersAndSetters\obj\Debug\net7.0\46_GettersAndSetters.pdb
+D:\Documents\csTutorial\46_GettersAndSetters\obj\Debug\net7.0\46_GettersAndSetters.genruntimeconfig.cache
+D:\Documents\csTutorial\46_GettersAndSetters\obj\Debug\net7.0\ref\46_GettersAndSetters.dll

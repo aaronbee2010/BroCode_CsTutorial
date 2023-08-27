@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\36_Inheritance\bin\Debug\net7.0\36_Inheritance.exe
+D:\Documents\csTutorial\36_Inheritance\bin\Debug\net7.0\36_Inheritance.deps.json
+D:\Documents\csTutorial\36_Inheritance\bin\Debug\net7.0\36_Inheritance.runtimeconfig.json
+D:\Documents\csTutorial\36_Inheritance\bin\Debug\net7.0\36_Inheritance.dll
+D:\Documents\csTutorial\36_Inheritance\bin\Debug\net7.0\36_Inheritance.pdb
+D:\Documents\csTutorial\36_Inheritance\obj\Debug\net7.0\36_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\36_Inheritance\obj\Debug\net7.0\36_Inheritance.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\36_Inheritance\obj\Debug\net7.0\36_Inheritance.AssemblyInfo.cs
+D:\Documents\csTutorial\36_Inheritance\obj\Debug\net7.0\36_Inheritance.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\36_Inheritance\obj\Debug\net7.0\36_Inheritance.dll
+D:\Documents\csTutorial\36_Inheritance\obj\Debug\net7.0\refint\36_Inheritance.dll
+D:\Documents\csTutorial\36_Inheritance\obj\Debug\net7.0\36_Inheritance.pdb
+D:\Documents\csTutorial\36_Inheritance\obj\Debug\net7.0\36_Inheritance.genruntimeconfig.cache
+D:\Documents\csTutorial\36_Inheritance\obj\Debug\net7.0\ref\36_Inheritance.dll

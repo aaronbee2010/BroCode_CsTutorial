@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\47_AutoImplementedProperties\bin\Debug\net7.0\47_AutoImplementedProperties.exe
+D:\Documents\csTutorial\47_AutoImplementedProperties\bin\Debug\net7.0\47_AutoImplementedProperties.deps.json
+D:\Documents\csTutorial\47_AutoImplementedProperties\bin\Debug\net7.0\47_AutoImplementedProperties.runtimeconfig.json
+D:\Documents\csTutorial\47_AutoImplementedProperties\bin\Debug\net7.0\47_AutoImplementedProperties.dll
+D:\Documents\csTutorial\47_AutoImplementedProperties\bin\Debug\net7.0\47_AutoImplementedProperties.pdb
+D:\Documents\csTutorial\47_AutoImplementedProperties\obj\Debug\net7.0\47_AutoImplementedProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\47_AutoImplementedProperties\obj\Debug\net7.0\47_AutoImplementedProperties.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\47_AutoImplementedProperties\obj\Debug\net7.0\47_AutoImplementedProperties.AssemblyInfo.cs
+D:\Documents\csTutorial\47_AutoImplementedProperties\obj\Debug\net7.0\47_AutoImplementedProperties.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\47_AutoImplementedProperties\obj\Debug\net7.0\47_AutoImplementedProperties.dll
+D:\Documents\csTutorial\47_AutoImplementedProperties\obj\Debug\net7.0\refint\47_AutoImplementedProperties.dll
+D:\Documents\csTutorial\47_AutoImplementedProperties\obj\Debug\net7.0\47_AutoImplementedProperties.pdb
+D:\Documents\csTutorial\47_AutoImplementedProperties\obj\Debug\net7.0\47_AutoImplementedProperties.genruntimeconfig.cache
+D:\Documents\csTutorial\47_AutoImplementedProperties\obj\Debug\net7.0\ref\47_AutoImplementedProperties.dll

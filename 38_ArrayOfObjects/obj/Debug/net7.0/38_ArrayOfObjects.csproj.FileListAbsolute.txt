@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\38_ArrayOfObjects\bin\Debug\net7.0\38_ArrayOfObjects.exe
+D:\Documents\csTutorial\38_ArrayOfObjects\bin\Debug\net7.0\38_ArrayOfObjects.deps.json
+D:\Documents\csTutorial\38_ArrayOfObjects\bin\Debug\net7.0\38_ArrayOfObjects.runtimeconfig.json
+D:\Documents\csTutorial\38_ArrayOfObjects\bin\Debug\net7.0\38_ArrayOfObjects.dll
+D:\Documents\csTutorial\38_ArrayOfObjects\bin\Debug\net7.0\38_ArrayOfObjects.pdb
+D:\Documents\csTutorial\38_ArrayOfObjects\obj\Debug\net7.0\38_ArrayOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\38_ArrayOfObjects\obj\Debug\net7.0\38_ArrayOfObjects.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\38_ArrayOfObjects\obj\Debug\net7.0\38_ArrayOfObjects.AssemblyInfo.cs
+D:\Documents\csTutorial\38_ArrayOfObjects\obj\Debug\net7.0\38_ArrayOfObjects.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\38_ArrayOfObjects\obj\Debug\net7.0\38_ArrayOfObjects.dll
+D:\Documents\csTutorial\38_ArrayOfObjects\obj\Debug\net7.0\refint\38_ArrayOfObjects.dll
+D:\Documents\csTutorial\38_ArrayOfObjects\obj\Debug\net7.0\38_ArrayOfObjects.pdb
+D:\Documents\csTutorial\38_ArrayOfObjects\obj\Debug\net7.0\38_ArrayOfObjects.genruntimeconfig.cache
+D:\Documents\csTutorial\38_ArrayOfObjects\obj\Debug\net7.0\ref\38_ArrayOfObjects.dll

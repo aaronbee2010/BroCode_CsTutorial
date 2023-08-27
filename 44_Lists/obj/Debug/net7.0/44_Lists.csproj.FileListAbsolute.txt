@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\44_Lists\bin\Debug\net7.0\44_Lists.exe
+D:\Documents\csTutorial\44_Lists\bin\Debug\net7.0\44_Lists.deps.json
+D:\Documents\csTutorial\44_Lists\bin\Debug\net7.0\44_Lists.runtimeconfig.json
+D:\Documents\csTutorial\44_Lists\bin\Debug\net7.0\44_Lists.dll
+D:\Documents\csTutorial\44_Lists\bin\Debug\net7.0\44_Lists.pdb
+D:\Documents\csTutorial\44_Lists\obj\Debug\net7.0\44_Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\44_Lists\obj\Debug\net7.0\44_Lists.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\44_Lists\obj\Debug\net7.0\44_Lists.AssemblyInfo.cs
+D:\Documents\csTutorial\44_Lists\obj\Debug\net7.0\44_Lists.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\44_Lists\obj\Debug\net7.0\44_Lists.dll
+D:\Documents\csTutorial\44_Lists\obj\Debug\net7.0\refint\44_Lists.dll
+D:\Documents\csTutorial\44_Lists\obj\Debug\net7.0\44_Lists.pdb
+D:\Documents\csTutorial\44_Lists\obj\Debug\net7.0\44_Lists.genruntimeconfig.cache
+D:\Documents\csTutorial\44_Lists\obj\Debug\net7.0\ref\44_Lists.dll

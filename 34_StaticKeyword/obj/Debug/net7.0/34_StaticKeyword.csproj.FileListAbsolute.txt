@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\34_StaticKeyword\bin\Debug\net7.0\34_StaticKeyword.exe
+D:\Documents\csTutorial\34_StaticKeyword\bin\Debug\net7.0\34_StaticKeyword.deps.json
+D:\Documents\csTutorial\34_StaticKeyword\bin\Debug\net7.0\34_StaticKeyword.runtimeconfig.json
+D:\Documents\csTutorial\34_StaticKeyword\bin\Debug\net7.0\34_StaticKeyword.dll
+D:\Documents\csTutorial\34_StaticKeyword\bin\Debug\net7.0\34_StaticKeyword.pdb
+D:\Documents\csTutorial\34_StaticKeyword\obj\Debug\net7.0\34_StaticKeyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\34_StaticKeyword\obj\Debug\net7.0\34_StaticKeyword.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\34_StaticKeyword\obj\Debug\net7.0\34_StaticKeyword.AssemblyInfo.cs
+D:\Documents\csTutorial\34_StaticKeyword\obj\Debug\net7.0\34_StaticKeyword.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\34_StaticKeyword\obj\Debug\net7.0\34_StaticKeyword.dll
+D:\Documents\csTutorial\34_StaticKeyword\obj\Debug\net7.0\refint\34_StaticKeyword.dll
+D:\Documents\csTutorial\34_StaticKeyword\obj\Debug\net7.0\34_StaticKeyword.pdb
+D:\Documents\csTutorial\34_StaticKeyword\obj\Debug\net7.0\34_StaticKeyword.genruntimeconfig.cache
+D:\Documents\csTutorial\34_StaticKeyword\obj\Debug\net7.0\ref\34_StaticKeyword.dll

@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\49_Generics\bin\Debug\net7.0\49_Generics.exe
+D:\Documents\csTutorial\49_Generics\bin\Debug\net7.0\49_Generics.deps.json
+D:\Documents\csTutorial\49_Generics\bin\Debug\net7.0\49_Generics.runtimeconfig.json
+D:\Documents\csTutorial\49_Generics\bin\Debug\net7.0\49_Generics.dll
+D:\Documents\csTutorial\49_Generics\bin\Debug\net7.0\49_Generics.pdb
+D:\Documents\csTutorial\49_Generics\obj\Debug\net7.0\49_Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\49_Generics\obj\Debug\net7.0\49_Generics.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\49_Generics\obj\Debug\net7.0\49_Generics.AssemblyInfo.cs
+D:\Documents\csTutorial\49_Generics\obj\Debug\net7.0\49_Generics.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\49_Generics\obj\Debug\net7.0\49_Generics.dll
+D:\Documents\csTutorial\49_Generics\obj\Debug\net7.0\refint\49_Generics.dll
+D:\Documents\csTutorial\49_Generics\obj\Debug\net7.0\49_Generics.pdb
+D:\Documents\csTutorial\49_Generics\obj\Debug\net7.0\49_Generics.genruntimeconfig.cache
+D:\Documents\csTutorial\49_Generics\obj\Debug\net7.0\ref\49_Generics.dll

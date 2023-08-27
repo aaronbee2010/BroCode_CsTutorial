@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\37_AbstractClasses\obj\Debug\net7.0\37_AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\37_AbstractClasses\obj\Debug\net7.0\37_AbstractClasses.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\37_AbstractClasses\obj\Debug\net7.0\37_AbstractClasses.AssemblyInfo.cs
+D:\Documents\csTutorial\37_AbstractClasses\obj\Debug\net7.0\37_AbstractClasses.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\37_AbstractClasses\bin\Debug\net7.0\37_AbstractClasses.exe
+D:\Documents\csTutorial\37_AbstractClasses\bin\Debug\net7.0\37_AbstractClasses.deps.json
+D:\Documents\csTutorial\37_AbstractClasses\bin\Debug\net7.0\37_AbstractClasses.runtimeconfig.json
+D:\Documents\csTutorial\37_AbstractClasses\bin\Debug\net7.0\37_AbstractClasses.dll
+D:\Documents\csTutorial\37_AbstractClasses\bin\Debug\net7.0\37_AbstractClasses.pdb
+D:\Documents\csTutorial\37_AbstractClasses\obj\Debug\net7.0\37_AbstractClasses.dll
+D:\Documents\csTutorial\37_AbstractClasses\obj\Debug\net7.0\refint\37_AbstractClasses.dll
+D:\Documents\csTutorial\37_AbstractClasses\obj\Debug\net7.0\37_AbstractClasses.pdb
+D:\Documents\csTutorial\37_AbstractClasses\obj\Debug\net7.0\37_AbstractClasses.genruntimeconfig.cache
+D:\Documents\csTutorial\37_AbstractClasses\obj\Debug\net7.0\ref\37_AbstractClasses.dll

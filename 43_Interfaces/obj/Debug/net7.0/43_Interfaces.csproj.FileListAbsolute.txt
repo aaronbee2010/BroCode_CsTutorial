@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\43_Interfaces\bin\Debug\net7.0\43_Interfaces.exe
+D:\Documents\csTutorial\43_Interfaces\bin\Debug\net7.0\43_Interfaces.deps.json
+D:\Documents\csTutorial\43_Interfaces\bin\Debug\net7.0\43_Interfaces.runtimeconfig.json
+D:\Documents\csTutorial\43_Interfaces\bin\Debug\net7.0\43_Interfaces.dll
+D:\Documents\csTutorial\43_Interfaces\bin\Debug\net7.0\43_Interfaces.pdb
+D:\Documents\csTutorial\43_Interfaces\obj\Debug\net7.0\43_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\43_Interfaces\obj\Debug\net7.0\43_Interfaces.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\43_Interfaces\obj\Debug\net7.0\43_Interfaces.AssemblyInfo.cs
+D:\Documents\csTutorial\43_Interfaces\obj\Debug\net7.0\43_Interfaces.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\43_Interfaces\obj\Debug\net7.0\43_Interfaces.dll
+D:\Documents\csTutorial\43_Interfaces\obj\Debug\net7.0\refint\43_Interfaces.dll
+D:\Documents\csTutorial\43_Interfaces\obj\Debug\net7.0\43_Interfaces.pdb
+D:\Documents\csTutorial\43_Interfaces\obj\Debug\net7.0\43_Interfaces.genruntimeconfig.cache
+D:\Documents\csTutorial\43_Interfaces\obj\Debug\net7.0\ref\43_Interfaces.dll

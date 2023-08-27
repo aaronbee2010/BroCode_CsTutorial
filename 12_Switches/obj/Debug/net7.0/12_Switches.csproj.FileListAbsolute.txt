@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\12_Switches\obj\Debug\net7.0\12_Switches.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\12_Switches\obj\Debug\net7.0\12_Switches.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\12_Switches\obj\Debug\net7.0\12_Switches.AssemblyInfo.cs
+D:\Documents\csTutorial\12_Switches\obj\Debug\net7.0\12_Switches.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\12_Switches\bin\Debug\net7.0\12_Switches.exe
+D:\Documents\csTutorial\12_Switches\bin\Debug\net7.0\12_Switches.deps.json
+D:\Documents\csTutorial\12_Switches\bin\Debug\net7.0\12_Switches.runtimeconfig.json
+D:\Documents\csTutorial\12_Switches\bin\Debug\net7.0\12_Switches.dll
+D:\Documents\csTutorial\12_Switches\bin\Debug\net7.0\12_Switches.pdb
+D:\Documents\csTutorial\12_Switches\obj\Debug\net7.0\12_Switches.dll
+D:\Documents\csTutorial\12_Switches\obj\Debug\net7.0\refint\12_Switches.dll
+D:\Documents\csTutorial\12_Switches\obj\Debug\net7.0\12_Switches.pdb
+D:\Documents\csTutorial\12_Switches\obj\Debug\net7.0\12_Switches.genruntimeconfig.cache
+D:\Documents\csTutorial\12_Switches\obj\Debug\net7.0\ref\12_Switches.dll

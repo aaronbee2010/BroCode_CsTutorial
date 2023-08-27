@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\19_GotoStatement\bin\Debug\net7.0\19_GotoStatement.exe
+D:\Documents\csTutorial\19_GotoStatement\bin\Debug\net7.0\19_GotoStatement.deps.json
+D:\Documents\csTutorial\19_GotoStatement\bin\Debug\net7.0\19_GotoStatement.runtimeconfig.json
+D:\Documents\csTutorial\19_GotoStatement\bin\Debug\net7.0\19_GotoStatement.dll
+D:\Documents\csTutorial\19_GotoStatement\bin\Debug\net7.0\19_GotoStatement.pdb
+D:\Documents\csTutorial\19_GotoStatement\obj\Debug\net7.0\19_GotoStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\19_GotoStatement\obj\Debug\net7.0\19_GotoStatement.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\19_GotoStatement\obj\Debug\net7.0\19_GotoStatement.AssemblyInfo.cs
+D:\Documents\csTutorial\19_GotoStatement\obj\Debug\net7.0\19_GotoStatement.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\19_GotoStatement\obj\Debug\net7.0\19_GotoStatement.dll
+D:\Documents\csTutorial\19_GotoStatement\obj\Debug\net7.0\refint\19_GotoStatement.dll
+D:\Documents\csTutorial\19_GotoStatement\obj\Debug\net7.0\19_GotoStatement.pdb
+D:\Documents\csTutorial\19_GotoStatement\obj\Debug\net7.0\19_GotoStatement.genruntimeconfig.cache
+D:\Documents\csTutorial\19_GotoStatement\obj\Debug\net7.0\ref\19_GotoStatement.dll

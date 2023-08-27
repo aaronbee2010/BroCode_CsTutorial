@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\31_Classes\obj\Debug\net7.0\31_Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\31_Classes\obj\Debug\net7.0\31_Classes.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\31_Classes\obj\Debug\net7.0\31_Classes.AssemblyInfo.cs
+D:\Documents\csTutorial\31_Classes\obj\Debug\net7.0\31_Classes.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\31_Classes\bin\Debug\net7.0\31_Classes.exe
+D:\Documents\csTutorial\31_Classes\bin\Debug\net7.0\31_Classes.deps.json
+D:\Documents\csTutorial\31_Classes\bin\Debug\net7.0\31_Classes.runtimeconfig.json
+D:\Documents\csTutorial\31_Classes\bin\Debug\net7.0\31_Classes.dll
+D:\Documents\csTutorial\31_Classes\bin\Debug\net7.0\31_Classes.pdb
+D:\Documents\csTutorial\31_Classes\obj\Debug\net7.0\31_Classes.dll
+D:\Documents\csTutorial\31_Classes\obj\Debug\net7.0\refint\31_Classes.dll
+D:\Documents\csTutorial\31_Classes\obj\Debug\net7.0\31_Classes.pdb
+D:\Documents\csTutorial\31_Classes\obj\Debug\net7.0\31_Classes.genruntimeconfig.cache
+D:\Documents\csTutorial\31_Classes\obj\Debug\net7.0\ref\31_Classes.dll

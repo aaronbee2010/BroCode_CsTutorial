@@ -1,0 +1,14 @@
+D:\Documents\csTutorial\33_Constructors\bin\Debug\net7.0\33_Constructors.exe
+D:\Documents\csTutorial\33_Constructors\bin\Debug\net7.0\33_Constructors.deps.json
+D:\Documents\csTutorial\33_Constructors\bin\Debug\net7.0\33_Constructors.runtimeconfig.json
+D:\Documents\csTutorial\33_Constructors\bin\Debug\net7.0\33_Constructors.dll
+D:\Documents\csTutorial\33_Constructors\bin\Debug\net7.0\33_Constructors.pdb
+D:\Documents\csTutorial\33_Constructors\obj\Debug\net7.0\33_Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\csTutorial\33_Constructors\obj\Debug\net7.0\33_Constructors.AssemblyInfoInputs.cache
+D:\Documents\csTutorial\33_Constructors\obj\Debug\net7.0\33_Constructors.AssemblyInfo.cs
+D:\Documents\csTutorial\33_Constructors\obj\Debug\net7.0\33_Constructors.csproj.CoreCompileInputs.cache
+D:\Documents\csTutorial\33_Constructors\obj\Debug\net7.0\33_Constructors.dll
+D:\Documents\csTutorial\33_Constructors\obj\Debug\net7.0\refint\33_Constructors.dll
+D:\Documents\csTutorial\33_Constructors\obj\Debug\net7.0\33_Constructors.pdb
+D:\Documents\csTutorial\33_Constructors\obj\Debug\net7.0\33_Constructors.genruntimeconfig.cache
+D:\Documents\csTutorial\33_Constructors\obj\Debug\net7.0\ref\33_Constructors.dll
