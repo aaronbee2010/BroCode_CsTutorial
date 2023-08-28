@@ -13,8 +13,8 @@ namespace Enums {
     class Program {
 
         static void Main(string[] args) {
-            // Console.WriteLine(Planets.Mercury + " is planet #" + (int)Planets.Mercury);
-            // Console.WriteLine(Planets.Pluto + " is planet #" + (int)Planets.Pluto);
+            // Console.WriteLine($"{Planets.Mercury} is planet #{(int)Planets.Mercury}");
+            // Console.WriteLine($"{Planets.Pluto} is planet #{(int)Planets.Pluto}");
             Console.WriteLine($"{Planets.Earth} is planet #{(int)Planets.Earth}");
 
             string name = PlanetRadius.Earth.ToString();
